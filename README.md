@@ -1,14 +1,23 @@
-# AFRICALIFE (unofficial Lagos Life landing clone)
+# AFRICALIFE (unofficial Lagos Life UI clone)
 
-An unofficial, static recreation inspired by the public landing page of [Lagos Life](https://lagoslife.app/).
+An **unofficial, original static UI recreation** inspired by publicly visible pages and descriptions of [Lagos Life](https://lagoslife.app/) by Vatar.
 
-## What this is
-- A lightweight HTML/CSS landing page based on publicly visible information about Lagos Life ("a Sims-style life game set in Lagos").
+## Important
 - **Not affiliated** with Lagos Life, Vatar, or lagoslife.app.
-- Does **not** include the original app’s proprietary source code, backend, game logic, assets, authentication, or databases.
+- This repository contains **no proprietary source code, game logic, backend services, databases, authentication, payment integrations, or original game assets** from Lagos Life.
+- Lagos Life is a live browser-based multiplayer/life-simulation app (Next.js + backend services). A fully functional 1:1 clone is not possible from public pages alone; this project provides static, inspired UI pages for learning/demo purposes.
+
+## Pages included
+- `index.html` — Landing/home
+- `pages/map.html` — Map & locations (static mock based on public descriptions)
+- `pages/developers.html` — Developers landing (static mock)
+- `pages/about.html` — About / disclaimer
+- `pages/terms.html` — Terms summary (links to official terms)
+- `pages/privacy.html` — Privacy summary (links to official policy)
+- `pages/404.html` — Not-found page
 
 ## Local preview
 Open `index.html` in a browser.
 
-## Notes
-Lagos Life is a browser-based life simulation set in Lagos (Next.js client app). A full functional clone would require access to proprietary code/services that are not publicly available. This repository contains only original, static markup/styles created for learning/demonstration.
+## Credits / reference
+Public reference: https://lagoslife.app/ (all trademarks and brand names belong to their respective owners). Replace placeholder content/assets with your own if you publish this.
