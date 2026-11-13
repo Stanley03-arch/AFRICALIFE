@@ -16,12 +16,11 @@ An **unofficial, original static UI recreation** inspired by publicly visible pa
 - `pages/child-safety.html` — Child safety (links official)
 - `pages/developers.html` — Developers landing
 - `pages/docs.html`, `pages/sample.html`, `pages/agreement.html`, `pages/keys.html`, `pages/dashboard.html` — Developer portal pages
-- `pages/login.html` (mock), `pages/signup.html` (mock)
+- `pages/login.html` (mock), `pages/signup.html` (mock), `pages/reset.html`
 - `pages/profile.html`, `pages/settings.html`
-- `pages/shop.html`, `pages/guide.html`, `pages/jobs.html`, `pages/businesses.html`
-- `pages/status.html`, `pages/notifications.html`, `pages/friends.html`, `pages/messages.html`
-- `pages/wallet.html`, `pages/inventory.html`
-- `pages/about.html`, `pages/terms.html`, `pages/privacy.html`, `pages/cities.html`, `pages/games.html`, `pages/worlds.html`, `pages/location.html`, `pages/contact.html`, `pages/support.html`, `pages/404.html`
+- `pages/shop.html`, `pages/guide.html`, `pages/jobs.html`, `pages/businesses.html`, `pages/vehicles.html`, `pages/housing.html`
+- `pages/status.html`, `pages/notifications.html`, `pages/friends.html`, `pages/messages.html`, `pages/inventory.html`, `pages/wallet.html`
+- `pages/about.html`, `pages/terms.html`, `pages/privacy.html`, `pages/cities.html`, `pages/games.html`, `pages/worlds.html`, `pages/location.html`, `pages/contact.html`, `pages/support.html`, `pages/news.html`, `pages/events.html`, `pages/search.html`, `pages/help.html`, `pages/404.html`
 
 ## PWA / SEO
 - `manifest.webmanifest` (standalone app shell)
