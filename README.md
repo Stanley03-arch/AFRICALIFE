@@ -9,7 +9,7 @@ An **unofficial, original static UI recreation** inspired by publicly visible pa
 
 ## Pages included
 - `index.html` — Landing/home
-- `pages/map.html` — Map & locations (static mock)
+- `pages/map.html` — Map & locations (interactive tiles)
 - `pages/locations.html` — Locations directory
 - `pages/community.html` — Community placeholder
 - `pages/community-guidelines.html` — Guidelines (links official)
@@ -18,14 +18,18 @@ An **unofficial, original static UI recreation** inspired by publicly visible pa
 - `pages/docs.html`, `pages/sample.html`, `pages/agreement.html`, `pages/keys.html`, `pages/dashboard.html` — Developer portal pages
 - `pages/login.html` (mock), `pages/signup.html` (mock)
 - `pages/profile.html`, `pages/settings.html`
-- `pages/shop.html`, `pages/guide.html`
-- `pages/about.html`, `pages/terms.html`, `pages/privacy.html`, `pages/cities.html`, `pages/games.html`, `pages/contact.html`, `pages/support.html`, `pages/404.html`
+- `pages/shop.html`, `pages/guide.html`, `pages/jobs.html`, `pages/businesses.html`
+- `pages/status.html`, `pages/notifications.html`, `pages/friends.html`, `pages/messages.html`
+- `pages/wallet.html`, `pages/inventory.html`
+- `pages/about.html`, `pages/terms.html`, `pages/privacy.html`, `pages/cities.html`, `pages/games.html`, `pages/worlds.html`, `pages/location.html`, `pages/contact.html`, `pages/support.html`, `pages/404.html`
 
 ## PWA / SEO
 - `manifest.webmanifest` (standalone app shell)
 - `robots.txt`
 - `sitemap.xml`
 - `assets/icons/logo.svg` (logo mark)
+- `app.js` — lightweight UI interactions (mock forms, settings toggles, map tiles)
+- `footer.html` — shared footer component
 - Shared `styles.css`
 
 ## Local preview

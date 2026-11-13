@@ -33,4 +33,5 @@ p { margin: 0 0 12px; line-height: 1.55; }
 .mapbox { border: 2px dashed #c7d7e8; border-radius: 18px; min-height: 260px; display: grid; place-items: center; background: linear-gradient(180deg, #dff0fb, #f6fbff); color: var(--muted); text-align: center; padding: 16px; }
 .list { margin: 0; padding-left: 18px; color: var(--muted); }
 .footer { margin-top: 16px; font-size: 13px; color: var(--muted); text-align: center; }
+.footer a { color: var(--muted); text-decoration: underline; }
 code { background: #eef4fa; padding: 2px 6px; border-radius: 6px; }
