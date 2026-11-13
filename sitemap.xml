@@ -1,9 +1,45 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-  <url><loc>https://lagoslife.app/</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://lagoslife.app/pages/map.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://lagoslife.app/pages/locations.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/404.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/about.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/agreement.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/businesses.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/child-safety.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/cities.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/community.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/community-guidelines.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/contact.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/dashboard.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/developers.html</loc><changefreq>weekly</changefreq></url>
-  <url><loc>https://lagoslife.app/pages/about.html</loc><changefreq>monthly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/docs.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/events.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/friends.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/games.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/guide.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/help.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/housing.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/inventory.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/jobs.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/keys.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/location.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/locations.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/login.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/map.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/messages.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/news.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/notifications.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/privacy.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/profile.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/reset.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/sample.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/search.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/settings.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/shop.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/signup.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/status.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/support.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/terms.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/vehicles.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/wallet.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/worlds.html</loc><changefreq>weekly</changefreq></url>
 </urlset>
