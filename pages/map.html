@@ -5,6 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     <title>Map — Lagos Life UI Clone</title>
     <link rel="stylesheet" href="../styles.css" />
+    <script src="../app.js" defer></script>
   </head>
   <body>
     <header class="topbar">
@@ -12,6 +13,8 @@
       <nav class="nav" aria-label="Main">
         <a href="../index.html">Home</a>
         <a class="active" href="./map.html">Map</a>
+        <a href="./locations.html">Locations</a>
+        <a href="./community.html">Community</a>
         <a href="./developers.html">Developers</a>
         <a href="./about.html">About</a>
       </nav>
@@ -20,20 +23,22 @@
       <section class="card">
         <p class="badge">Static mock</p>
         <h1>City map & locations</h1>
-        <p class="muted">Inspired by Lagos Life’s public descriptions. This is a non-functional UI mock (no live game data, no backend).</p>
-        <div class="mapbox" role="img" aria-label="Map placeholder">🗺️ Lagos (interactive map placeholder)<br><span class="muted">The official app renders a live game world; this clone shows a static layout only.</span></div>
+        <p class="muted">Inspired by Lagos Life's public descriptions. Click a tile for a mock detail. The official app renders a live game world.</p>
+        <div class="mapbox" role="img" aria-label="Map placeholder">
+          🗺️ Lagos (interactive map placeholder)
+        </div>
       </section>
       <section class="card" style="margin-top:12px">
         <h2>Example locations (publicly referenced themes)</h2>
         <div class="grid">
-          <div class="tile"><h3>🚌 Danfo</h3><p class="muted">Iconic Lagos transport vibe.</p></div>
-          <div class="tile"><h3>🍲 Shitta (Amala)</h3><p class="muted">Food spot reference.</p></div>
-          <div class="tile"><h3>🎉 Quilox</h3><p class="muted">Nightlife reference.</p></div>
-          <div class="tile"><h3>💡 NEPA</h3><p class="muted">Power-outage survival trope.</p></div>
-          <div class="tile"><h3>🎱 Snooker Spot</h3><p class="muted">Leisure location (reported publicly).</p></div>
-          <div class="tile"><h3>🛠️ HANDI HQ</h3><p class="muted">Location (reported publicly).</p></div>
+          <button class="tile map-tile" data-name="Danfo Route" type="button"><h3>🚌 Danfo</h3><p class="muted">Iconic Lagos transport vibe.</p></button>
+          <button class="tile map-tile" data-name="Shitta (Amala)" type="button"><h3>🍲 Shitta</h3><p class="muted">Food spot reference.</p></button>
+          <button class="tile map-tile" data-name="Quilox" type="button"><h3>🎉 Quilox</h3><p class="muted">Nightlife reference.</p></button>
+          <button class="tile map-tile" data-name="NEPA" type="button"><h3>💡 NEPA</h3><p class="muted">Power-outage survival trope.</p></button>
+          <button class="tile map-tile" data-name="Snooker Spot" type="button"><h3>🎱 Snooker Spot</h3><p class="muted">Leisure location (reported publicly).</p></button>
+          <button class="tile map-tile" data-name="HANDI HQ" type="button"><h3>🛠️ HANDI HQ</h3><p class="muted">Location (reported publicly).</p></button>
         </div>
-        <p class="muted" style="margin-top:12px">City features mentioned publicly on the official landing include things like Governor, Sea Plots, and homes. For the real/live map, use <a href="https://lagoslife.app/" target="_blank" rel="noreferrer">lagoslife.app</a>.</p>
+        <div id="ll-map-detail" class="card" style="margin-top:12px"><p class="muted">Click a location tile to see a mock detail.</p></div>
       </section>
     </main>
   </body>

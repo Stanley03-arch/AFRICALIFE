@@ -1,11 +1,35 @@
 <!doctype html>
-<html lang="en"><head><meta charset="utf-8"/><meta name="viewport" content="width=device-width, initial-scale=1"/><title>Log in — Lagos Life UI Clone</title><link rel="stylesheet" href="../styles.css"/></head>
-<body>
-<header class="topbar"><a class="brand" href="../index.html">Lagos Life (UI Clone)</a><nav class="nav"><a href="../index.html">Home</a><a href="./signup.html">Sign up</a></nav></header>
-<main class="wrap"><section class="card" style="max-width:520px;margin:0 auto">
-<p class="badge">Static UI mock · no authentication</p><h1>Log in</h1>
-<p class="muted">This clone does not connect to Lagos Life accounts or backends.</p>
-<label class="muted" style="display:block;margin-top:10px">Email<br><input style="width:100%;padding:11px;border:1px solid var(--line);border-radius:12px;margin-top:4px" placeholder="you@example.com" disabled></label>
-<label class="muted" style="display:block;margin-top:10px">Password<br><input type="password" style="width:100%;padding:11px;border:1px solid var(--line);border-radius:12px;margin-top:4px" placeholder="••••••••" disabled></label>
-<div class="actions"><a class="btn primary" href="https://lagoslife.app/" target="_blank" rel="noreferrer">Use official login</a><a class="btn" href="./signup.html">Create account (mock)</a></div>
-</section></main></body></html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Log in — Lagos Life UI Clone</title>
+    <link rel="stylesheet" href="../styles.css" />
+    <script src="../app.js" defer></script>
+  </head>
+  <body>
+    <header class="topbar">
+      <a class="brand" href="../index.html">Lagos Life (UI Clone)</a>
+      <nav class="nav"><a href="../index.html">Home</a><a class="active" href="./login.html">Log in</a><a href="./signup.html">Sign up</a></nav>
+    </header>
+    <main class="wrap">
+      <section class="card" style="max-width:560px;margin:0 auto">
+        <p class="badge">Static UI mock · no authentication</p>
+        <h1>Log in</h1>
+        <p class="muted">This clone does not connect to Lagos Life accounts or backends.</p>
+        <form data-mock>
+          <label class="muted" style="display:block;margin-top:10px">Email<br>
+            <input style="width:100%;padding:11px;border:1px solid var(--line);border-radius:12px;margin-top:4px" placeholder="you@example.com" required>
+          </label>
+          <label class="muted" style="display:block;margin-top:10px">Password<br>
+            <input type="password" style="width:100%;padding:11px;border:1px solid var(--line);border-radius:12px;margin-top:4px" placeholder="••••••••" required>
+          </label>
+          <div class="actions" style="margin-top:14px">
+            <button class="btn primary" type="submit">Log in (mock)</button>
+            <a class="btn" href="./signup.html">Create account</a>
+          </div>
+        </form>
+      </section>
+    </main>
+  </body>
+</html>
