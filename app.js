@@ -56,9 +56,26 @@
     });
   }
 
+  // --- Lite view toggle (pure UI) ---
+  function wireLite() {
+    var btn = document.getElementById("ll-lite-toggle");
+    if (!btn) return;
+    btn.addEventListener("click", function () {
+      var on = document.documentElement.dataset.lite === "1";
+      if (on) {
+        delete document.documentElement.dataset.lite;
+        btn.textContent = "Lite view";
+      } else {
+        document.documentElement.dataset.lite = "1";
+        btn.textContent = "Full view";
+      }
+    });
+  }
+
   document.addEventListener("DOMContentLoaded", function () {
     wireSettings();
     wireAuth();
     wireMap();
+    wireLite();
   });
 })();

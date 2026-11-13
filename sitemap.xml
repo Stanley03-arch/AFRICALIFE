@@ -3,6 +3,7 @@
   <url><loc>https://lagoslife.app/pages/404.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/about.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/agreement.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/article.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/businesses.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/child-safety.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/cities.html</loc><changefreq>weekly</changefreq></url>
@@ -12,6 +13,7 @@
   <url><loc>https://lagoslife.app/pages/dashboard.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/developers.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/docs.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/event.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/events.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/friends.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/games.html</loc><changefreq>weekly</changefreq></url>
@@ -28,8 +30,10 @@
   <url><loc>https://lagoslife.app/pages/messages.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/news.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/notifications.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/post.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/privacy.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/profile.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/reports.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/reset.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/sample.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/search.html</loc><changefreq>weekly</changefreq></url>
@@ -39,6 +43,7 @@
   <url><loc>https://lagoslife.app/pages/status.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/support.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/terms.html</loc><changefreq>weekly</changefreq></url>
+  <url><loc>https://lagoslife.app/pages/transactions.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/vehicles.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/wallet.html</loc><changefreq>weekly</changefreq></url>
   <url><loc>https://lagoslife.app/pages/worlds.html</loc><changefreq>weekly</changefreq></url>
