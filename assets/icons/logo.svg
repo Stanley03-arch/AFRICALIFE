@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 120" width="120" height="120" role="img" aria-label="Lagos Life logo mark">
+  <rect width="120" height="120" rx="26" fill="#16203c"/>
+  <g fill="none" stroke="#bfe0f7" stroke-width="6" stroke-linejoin="round">
+    <path d="M30 52 L60 30 L90 52"/>
+    <path d="M30 78 L60 56 L90 78"/>
+    <path d="M60 30 L60 78"/>
+  </g>
+  <circle cx="60" cy="78" r="6" fill="#bfe0f7"/>
+  <rect x="44" y="84" width="32" height="22" rx="6" fill="#bfe0f7"/>
+  <circle cx="54" cy="95" r="3" fill="#16203c"/>
+  <circle cx="66" cy="95" r="3" fill="#16203c"/>
+  <path d="M52 102 Q60 107 68 102" stroke="#16203c" stroke-width="3" fill="none" stroke-linecap="round"/>
+</svg>

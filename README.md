@@ -9,12 +9,24 @@ An **unofficial, original static UI recreation** inspired by publicly visible pa
 
 ## Pages included
 - `index.html` — Landing/home
-- `pages/map.html` — Map & locations (static mock based on public descriptions)
-- `pages/developers.html` — Developers landing (static mock)
-- `pages/about.html` — About / disclaimer
-- `pages/terms.html` — Terms summary (links to official terms)
-- `pages/privacy.html` — Privacy summary (links to official policy)
-- `pages/404.html` — Not-found page
+- `pages/map.html` — Map & locations (static mock)
+- `pages/locations.html` — Locations directory
+- `pages/community.html` — Community placeholder
+- `pages/community-guidelines.html` — Guidelines (links official)
+- `pages/child-safety.html` — Child safety (links official)
+- `pages/developers.html` — Developers landing
+- `pages/docs.html`, `pages/sample.html`, `pages/agreement.html`, `pages/keys.html`, `pages/dashboard.html` — Developer portal pages
+- `pages/login.html` (mock), `pages/signup.html` (mock)
+- `pages/profile.html`, `pages/settings.html`
+- `pages/shop.html`, `pages/guide.html`
+- `pages/about.html`, `pages/terms.html`, `pages/privacy.html`, `pages/cities.html`, `pages/games.html`, `pages/contact.html`, `pages/support.html`, `pages/404.html`
+
+## PWA / SEO
+- `manifest.webmanifest` (standalone app shell)
+- `robots.txt`
+- `sitemap.xml`
+- `assets/icons/logo.svg` (logo mark)
+- Shared `styles.css`
 
 ## Local preview
 Open `index.html` in a browser.
